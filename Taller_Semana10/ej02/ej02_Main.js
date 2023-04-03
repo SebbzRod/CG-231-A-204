@@ -41,8 +41,8 @@ var base = 1;
 var lado = 10;
 /**
  * createCono: Construye un cono y los retorna
- * ENTRADAS: Base = Variable num, tamaño del lado de la base del cono que se creara en la escena. Ademas sera el valor de la altura
- *           Lados = Variable num, numero de lados del cono que se creara en la escena.
+ * ENTRADAS: base = Variable num, tamaño del lado de la base del cono que se creara en la escena. Ademas sera el valor de la altura
+ *           lados = Variable num, numero de lados del cono que se creara en la escena.
  * SALIDAS: cone = El objeto cone, que representa el cono creado a partir de los parámetros proporcionados.
  */
 function crearCono( base, lado) {
