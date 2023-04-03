@@ -13,9 +13,9 @@ function crearCono( base, lado) {
     
 }
   
-  /**
-  * Animate: Funcion creada para trabajar con una escena, una cámara y un objeto de control de cámara.
-  */
+/**
+* Animate: Funcion creada para trabajar con una escena, una cámara y un objeto de control de cámara.
+*/
 function animate(){
 
 requestAnimationFrame(animate);
